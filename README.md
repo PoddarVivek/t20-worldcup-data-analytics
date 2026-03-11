@@ -16,7 +16,8 @@ This project analyzes ICC Men's T20 World Cup data to uncover player performance
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](T20 Cricket World Cup Dashboard.pbix
+)
 
 ## Key Insights
 - Top run scorers of the tournament
